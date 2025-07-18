@@ -1,9 +1,7 @@
 # Restaurant_Data_Dashboard
 This is an interactive Power BI dashboard project that analyzes restaurant-related data, including average delivery time, ratings, and cuisine pricing across various Indian cities and areas.
 
----
-
-### Key Features:
+## Key Features:
 - 📍 Average Delivery Time by City
 - ⭐ Average Rating and Cumulative Rating by Area
 - 🍱 Sum of Total Ratings by Restaurant

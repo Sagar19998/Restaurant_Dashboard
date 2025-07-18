@@ -4,11 +4,6 @@ This is an interactive Power BI dashboard project that analyzes restaurant-relat
 
 ---
 
-## 📊 Dashboard Overview
-
-![Restaurant Dashboard](./<img width="906" height="534" alt="image" src="https://github.com/user-attachments/assets/1d6fc052-7212-43bb-8e3c-6dd6b35e0b72"/>
-)
-
 ### Key Features:
 - 📍 Average Delivery Time by City
 - ⭐ Average Rating and Cumulative Rating by Area
@@ -33,7 +28,14 @@ The dataset simulates restaurant delivery metrics and customer ratings across mu
 ---
 
 ## 🎯 Objective:
-To create a business-ready dashboard helping restaurant owners or analysts identify top-performing areas, cuisines, and improve service times.
+To create a business-ready dashboard that helps restaurant owners or analysts identify top-performing areas, cuisines, and improve service times.
+
+---
+
+##  📊 Dashboard Overview
+
+![Restaurant Dashboard](./<img width="906" height="534" alt="image" src="https://github.com/user-attachments/assets/1d6fc052-7212-43bb-8e3c-6dd6b35e0b72"/>
+)
 
 ---
 

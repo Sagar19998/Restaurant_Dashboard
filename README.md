@@ -1,4 +1,4 @@
-# Restaurant Data Dashboard (Power BI)
+# Restaurant_Data_Dashboard
 
 This is an interactive Power BI dashboard project that analyzes restaurant-related data, including average delivery time, ratings, and cuisine pricing across various Indian cities and areas.
 
